@@ -26,3 +26,5 @@ Used Fatkun extension for image collection for each members.
 * Jupyter notebook, visual studio code as IDE
 * Python flask for http server
 * HTML/CSS/Javascript for UI
+
+![alt text](image.png)
